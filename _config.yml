@@ -2,7 +2,6 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Lanyon
@@ -22,3 +21,5 @@ author:
 version:             1.0.0
 
 gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
