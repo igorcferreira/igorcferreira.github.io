@@ -2,13 +2,14 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
+relative_permalinks: true
 
 # Setup
 title:               Igor Ferreira
 tagline:             'Um simples blog'
 description:         'Um simples blog'
 url:                 http://igorcferreira.com
-baseurl:             ''
+baseurl:             'http://igorcferreira.com'
 paginate:            5
 
 # About/contact
