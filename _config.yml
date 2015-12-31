@@ -9,7 +9,7 @@ title:               Igor Ferreira
 tagline:             'Um simples blog'
 description:         'Um simples blog'
 url:                 http://igorcferreira.com
-baseurl:             'http://igorcferreira.com'
+baseurl:             'https://igorcferreira.github.io'
 paginate:            5
 
 # About/contact
