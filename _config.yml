@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               Igor Ferreira
-tagline:             ''
-description:         ''
+tagline:             'Um simples blog'
+description:         'Um simples blog'
 url:                 http://igorcferreira.com
 baseurl:             'http://igorcferreira.com'
 paginate:            5
