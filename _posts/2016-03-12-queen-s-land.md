@@ -4,6 +4,17 @@ category: Life
 title: Queen's Land <abbr title="United Kingdom">🇬🇧</abbr>
 ---
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-75059904-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 <center>![Congress](http://wiki.mindseyesociety.org/images/thumb/5/5d/London-england-at-night-banner-no-logo.jpg/850px-London-england-at-night-banner-no-logo.jpg)</center>
 
 Chegou o fim do primeiro inverno que passo na terra da Rainha, e acredito que já tive tempo para entrosar um pouco com a cidade! <i>(Para vocês que imaginaram que falaria da região no nordeste da Austrália ou do parque indiano, me desculpe)</i>
