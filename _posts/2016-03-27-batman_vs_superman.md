@@ -6,11 +6,11 @@ title: Batman vs Superman
 
 ![Batman vs Superman](http://images-cdn.moviepilot.com/images/c_fill,h_449,w_800/t_mp_quality/wnw0sltgej1ltlsietrg/is-this-darkseid-s-role-in-batman-vs-superman-832749.jpg)
 
-Tenha em mente que este review lhe é trazido por um grande fã da DC e Vertigo comics, especialmente de *Justice League Dark*, *The Sandman*, *Watchmen*, *HellBlazer*, *Blackest Night*, *Green Arrow*, *Trinity War*, *The Killing Joke*, *Fables* e outros quadrinhos que não tem medo de tocar em assuntos polêmicos, trazer imagens fortes e lançar volumes rated [M](http://oyster.ignimgs.com/mediawiki/apis.ign.com/ratings/d/d5/ESRB-ver2013_M.png){:target="_blank"}.
+Tenha em mente que este review lhe é trazido por um grande fã da DC e Vertigo comics, especialmente de *Justice League Dark*, *The Sandman*, *Watchmen*, *HellBlazer*, *Blackest Night*, *Green Arrow*, *Trinity War*, *The Killing Joke*, *Fables* e outros quadrinhos que não tem medo de tocar em assuntos polêmicos, trazer imagens fortes e lançar volumes rated [M](http://oyster.ignimgs.com/mediawiki/apis.ign.com/ratings/d/d5/ESRB-ver2013_M.png).
 
 O mesmo vale para meus quadrinhos preferidos da Marvel, como *DareDevil*, *Blade*, *The Punisher*, *Old Man Logan*, *Alias*, etc. 
 
-Eu poderia sair listando vários outros, de outras publishers, como *The Walking Dead*, *Lazarus* e *Spawn* da [Image Comics](https://imagecomics.com){:target="_blank"}. Mas, quem sabe, um dia eu escreva um post só para falar sobre isso.
+Eu poderia sair listando vários outros, de outras publishers, como *The Walking Dead*, *Lazarus* e *Spawn* da [Image Comics](https://imagecomics.com). Mas, quem sabe, um dia eu escreva um post só para falar sobre isso.
 
 ## TL;DR 
 
@@ -21,7 +21,7 @@ Pontos mais extremista:
 * Esse filme mostrou, mais uma vez, o porque eu não uso Rotten Tomatoes como critério de decisão se devo ou não assistir um filme.
 * Você que está xingando este filme e gostou de Age of Ultron: Parabéns por ser um fã irracional da Marvel.
 * A forma como a DC escolheu para construir seu universo cinematográfico é BEM diferente da forma escolhida pela Marvel.
-* E: Este é um filme feito para a páscoa! O que não falta é [Easter Egg](https://en.wikipedia.org/wiki/Easter_egg_(media)){:target="_blank"}!
+* E: Este é um filme feito para a páscoa! O que não falta é [Easter Egg](https://en.wikipedia.org/wiki/Easter_egg_(media))!
 
 Ah, importante:
 
