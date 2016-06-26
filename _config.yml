@@ -26,5 +26,7 @@ version:             1.0.0
 
 gems: [jekyll-paginate]
 
+google_analytics: UA-75059904-1
+
 github:
   repo:           https://github.com/igorcferreira/igorcferreira.github.io
