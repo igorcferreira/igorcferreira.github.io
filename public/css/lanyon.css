@@ -46,6 +46,14 @@ body {
     display: block;
 }
 
+.source {
+    display: inline-block;
+    line-height: 1.25em;
+    font-size: 12px;
+    font-weight: normal;
+    color: #999;
+}
+
 html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
