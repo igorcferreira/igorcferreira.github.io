@@ -40,6 +40,12 @@ body {
   overflow-x: hidden;
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
 html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
