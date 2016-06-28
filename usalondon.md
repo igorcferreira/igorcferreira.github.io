@@ -129,7 +129,7 @@ The city knows about it! That is why they printed on the street each way you sho
 ![Street indications](http://static1.uk.businessinsider.com/image/54b7eb21dd0895d5258b4643-1200-924/expat-london-11.jpg){:.center-image}
 <span class="source">Business Insider / Pamela Engel</span> 
 
-And, the traffic lights follow the most intelligent system ever: They go from green, yellow, read when stopping the cars. And from red, yellow, green when allowing the traffic to flow. This way, it's possible to preview when the cars are going to move.
+And, the traffic lights follow the most intelligent system ever: They go from green, yellow, red when stopping the cars. And from red, yellow, green when allowing the traffic to flow. This way, it's possible to preview when the cars are going to move.
 
 ![Traffic light sequence](http://www.drivingtesttips.biz/images/traffic-lights-sequence.jpg){:.center-image}
 
