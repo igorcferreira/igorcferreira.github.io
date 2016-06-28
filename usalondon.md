@@ -88,7 +88,7 @@ It's a lot.
 
 That is why you can see a pub on every corner of London. And, in the end of the day of Friday, all of them will be full. It's part of the british culture to gather around on a pub. It's the pub culture.
 
-The writer was amazed by the fact that she could by a 2 liter bottle of cider (a drink that is highly consumed on the island). But it is easy to buy any easy drink. From cider to wine.
+The writer was amazed by the fact that she could buy a 2 liter bottle of cider (a drink that is highly consumed on the island). But it is easy to buy any easy drink. From cider to wine.
 
 ![Controlled area](http://images.freeimages.com/images/premium/previews/1413/14132228-alcohol-free-zone-sign.jpg){:.center-image}
 
