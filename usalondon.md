@@ -50,7 +50,7 @@ And contactless, a system where you can pay with your card without having to typ
 
 Something that was mentioned some times: Food!
 
-As a Brazilian, what shocked my the most when coming here was the food (MY GOD, how I miss the Brazilian “rodízios”! All of them: Japanese, Barbecue, Pizza, Pastel).
+As a Brazilian, what shocked me the most when coming here was the food (MY GOD, how I miss the Brazilian “rodízios”! All of them: Japanese, Barbecue, Pizza, Pastel).
 
 Yes! The Chinese food is terrible!
 
