@@ -50,7 +50,7 @@ And contactless, a system where you can pay with your card without having to typ
 
 Something that was mentioned some times: Food!
 
-As a Brazilian, what shocked my the most when coming here was the food (MY GOD, how I miss the Brazilian “rodízios”! All of them: Japanese, Barbecue, Pizza, Pastel).
+As a Brazilian, what shocked me the most when coming here was the food (MY GOD, how I miss the Brazilian “rodízios”! All of them: Japanese, Barbecue, Pizza, Pastel).
 
 Yes! The Chinese food is terrible!
 
@@ -88,7 +88,7 @@ It's a lot.
 
 That is why you can see a pub on every corner of London. And, in the end of the day of Friday, all of them will be full. It's part of the british culture to gather around on a pub. It's the pub culture.
 
-The writer was amazed by the fact that she could by a 2 liter bottle of cider (a drink that is highly consumed on the island). But it is easy to buy any easy drink. From cider to wine.
+The writer was amazed by the fact that she could buy a 2 liter bottle of cider (a drink that is highly consumed on the island). But it is easy to buy any easy drink. From cider to wine.
 
 ![Controlled area](http://images.freeimages.com/images/premium/previews/1413/14132228-alcohol-free-zone-sign.jpg){:.center-image}
 
@@ -129,7 +129,7 @@ The city knows about it! That is why they printed on the street each way you sho
 ![Street indications](http://static1.uk.businessinsider.com/image/54b7eb21dd0895d5258b4643-1200-924/expat-london-11.jpg){:.center-image}
 <span class="source">Business Insider / Pamela Engel</span> 
 
-And, the traffic lights follow the most intelligent system ever: They go from green, yellow, read when stopping the cars. And from red, yellow, green when allowing the traffic to flow. This way, it's possible to preview when the cars are going to move.
+And, the traffic lights follow the most intelligent system ever: They go from green, yellow, red when stopping the cars. And from red, yellow, green when allowing the traffic to flow. This way, it's possible to preview when the cars are going to move.
 
 ![Traffic light sequence](http://www.drivingtesttips.biz/images/traffic-lights-sequence.jpg){:.center-image}
 
