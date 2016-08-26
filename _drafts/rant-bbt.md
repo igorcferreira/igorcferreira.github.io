@@ -14,3 +14,5 @@ title: Quick thought - ADHD de cada dia
 Mais uma vez eu fui motivado a escrever por um tweet! E, infelizmente, mais um Quick thought. 
 
 Dessa vez, com um pouco de reclamação também (porque a internet evelouiu para ser um storage de reclamações)!
+
+Um <a href="http://www.campograndenews.com.br/lado-b/faz-bem/depressao-nao-e-frescura-e-so-se-cura-com-diagnostico-remedio-e-terapia">post</a> sobre a importância que deve ser dada à depressão.
