@@ -19,3 +19,16 @@ Fui motivado a escrever esse texto por 3 motivos:
 <br/>
 
 Gostaria de começar esse texto relatando que "A pior sensação do mundo é a raiva misturada à decepção de perder uma briga contra você mesmo!"
+
+Doenças mentais, mesmo hoje, ainda precisam ser aceitadas e entendidas pelas pessoas. Muitos mitos, preconceitos e descrenças acontecem em torno desse problema real, fazendo com que quem sofre se esconda ou não aceite o diagnóstico, usando termos como "é só uma fase" de muleta para seguir a vida.
+
+Eu tenho <a href="https://pt.wikipedia.org/wiki/Distúrbio_do_déficit_de_atenção_sem_hiperatividade">ADHD-PI</a>. E, sim, diagnosticado, precisando de medicação e tudo mais! Não, não é fase e não falo isso porque é "famoso" ter alguma doença hoje em dia! E, não, não é uma simples desculpa!
+
+Quem assiste "The Big Bang Theory" não entende o quão sofrível é ter OCD, ser incapaz de falar com outra pessoa ou déficit de atenção. Não é essa coisa bonita e engraçada que é representada na série. Especialmente porque, em muitos casos, o problema não vem sozinho e, ao longo do tempo, acaba ganhando novas complicações.
+
+Para ser mais "realista", vou reportar o que sei/vivi e tentar colocar no cenário de tecnologia (o que vivo diariamente).
+
+
+
+<a href="http://www.gamasutra.com/view/feature/190891/programmer_interrupted.php">Gamasutra article</a>
+
