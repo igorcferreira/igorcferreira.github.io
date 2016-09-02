@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 category: Life
 title: ADHD de cada dia
 ---
