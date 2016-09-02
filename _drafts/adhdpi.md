@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Life
-title: Quick thought - ADHD de cada dia
+title: ADHD de cada dia
 ---
 
 <meta property="og:image" content="http://blogs.discovermagazine.com/sciencenotfiction/files/2011/03/Braaaains.jpg"/>
@@ -26,7 +26,11 @@ Eu tenho <a href="https://pt.wikipedia.org/wiki/Distúrbio_do_déficit_de_atenç
 
 Quem assiste "The Big Bang Theory" não entende o quão sofrível é ter OCD, ser incapaz de falar com outra pessoa ou déficit de atenção. Não é essa coisa bonita e engraçada que é representada na série. Especialmente porque, em muitos casos, o problema não vem sozinho e, ao longo do tempo, acaba ganhando novas complicações.
 
-Para ser mais "realista", vou reportar o que sei/vivi e tentar colocar no cenário de tecnologia (o que vivo diariamente).
+Para ser mais "realista", vou reportar o que sei/vivi e tentar colocar no cenário de tecnologia (o que vivo diariamente):
+
+ADHD é uma doença caracterizada por inatenção e impulsividade. Desde 2000 é caracterizada em 3 três tipos, sendo eles: Predominante inatenção (ADHD-PI), predominante hiperatividade e, a pior, sem predominância.
+
+Ela é, geralmente, diagnosticada ainda na infância, tanto que o site da NHS (sistema público de saúde britânico) <a href="http://www.nhs.uk/conditions/Attention-deficit-hyperactivity-disorder/Pages/Introduction.aspx">representa como uma doença infantil</a>. O preconceito de que crianças são naturalmente ativas e desatentas faz com que pessoas não sejam diagnosticadas corretamente e aumenta a negação.
 
 
 
