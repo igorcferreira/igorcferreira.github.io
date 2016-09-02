@@ -52,7 +52,7 @@ E não é só a vida pessoal que é atrapalhada, a vida profissional é altament
 
 No texto linkado em um dos tweets que coloquei no começo, é mensionado a <a href="https://pt.wikipedia.org/wiki/S%C3%ADndrome_do_impostor">síndrome do impostor</a>, um pensamento que é constante na vida dos que lutam contra o ADHD, pelo simples fato de que não importa quão competente a pessoa seja, ela vai atrasar entregas, deixar pequenos erros passarem despercebidos e ser incapaz de finalizar projetos, especialmente projetos pessoais onde a gerência é 100% individual.
 
-Um exemplo: Na tentativa de melhorar uma funcionalidade de um app onde trabalho, decidi estudar e implementar um sistema básico de machine learning para encadear e balancear operações em imagens usando OpenGL, uma ideia excitante e complicada. Mas, o projeto acabou não sendo finalizado ainda, porque, após ter 98% do algoritmo pronto e testado, restou apenas a criação de um processo de escolhas de quadriláteros. Apesar disso ser simples, é uma tarefa repetitiva e, portanto, algo ABSURDAMENTE difícil, para mim, finalizar!
+Um exemplo: Na tentativa de melhorar uma funcionalidade de um app onde trabalho, decidi estudar e implementar um sistema básico de machine learning para encadear e balancear operações em imagens usando OpenGL, uma ideia excitante e complicada. Mas, o projeto acabou não sendo finalizado ainda, porque, após ter 98% do algoritmo pronto e testado, restou apenas a criação de um processo de escolhas de quadriláteros. Apesar disso ser uma das partes mais simples do sistema, é uma tarefa repetitiva e, portanto, algo ABSURDAMENTE difícil, para mim, finalizar!
 
 E é aí que outros problemas surgem, como depressão e ansiedade.
 
