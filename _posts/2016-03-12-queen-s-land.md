@@ -69,7 +69,7 @@ Além disso, tem algumas características da residência britância que é bem d
 <p> </p>
 
 > Máquina de lavar roupa na cozinha
-![Máquina de lavar](http://loughboroughhouses.com/USERIMAGES/405wm.jpg){: .center-image }
+![Máquina de lavar](http://www.kwkitchens.co.uk/media/10123/washing-machine-ceramic-sink-and-swivel-tap.jpg){: .center-image }
 
 <p> </p>
 
