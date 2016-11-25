@@ -9,11 +9,11 @@ title: USA and London
 
 <span class="source"> For anyone instered, I posted a similar content in portuguese a while ago: <a href="{% post_url 2016-03-12-queen-s-land %}">Queen's Land 🇬🇧</a> </span>
 
-Today, a dear friend (<a href="https://www.facebook.com/sheila.teachsouza">Sheila</a>) marked me in a <a href="https://www.facebook.com/sheila.teachsouza/posts/914623712016952">post</a>, asking my opinion about an article where <a href="http://uk.businessinsider.com/author/pamela-engel">Pamela Engel</a> listed <a href="http://uk.businessinsider.com/whats-it-like-to-live-in-london-england-2015-1?r=US&IR=T">18 things that shocked her when she moved from New York to London</a> (And, to be honest, I read the post with some nostalgic feeling because I did a similar change on September of 2015).
+Today, a dear friend (<a href="https://www.facebook.com/sheila.teachsouza">Sheila</a>) marked me in a <a href="https://www.facebook.com/sheila.teachsouza/posts/914623712016952">post</a>, asking my opinion about an article where <a href="http://uk.businessinsider.com/author/pamela-engel">Pamela Engel</a> listed <a href="http://uk.businessinsider.com/whats-it-like-to-live-in-london-england-2015-1?r=US&IR=T">18 things that shocked her when she moved from New York to London</a> (And, to be honest, I read the post with some nostalgic feeling because I did a similar change in September of 2015).
 
 I would like to point out that all that she put on the article is true! But, some of them are more noticeable for US citizens. 
 
-Since I have been on New York and London, and recently moved to the capital of England, let me present you a Brazilian opinion of the text and other items that I think that is relevant:
+Since I have been in New York and London, and recently moved to the capital of England, let me present you a Brazilian opinion of the text and other items that I think that is relevant:
 
 <br/>
 
@@ -26,7 +26,7 @@ The image above was taken from the article, from a snippet where she mentions th
 
 Apps that have audiovisual content have to deal with country restrictions. So, streaming services like Spotify and Netflix have a different catalog of movies, series and music for each country.
 
-It can be good or bad. If you keep in mind that BBC is available here and not on some countries like Brazil. But, it is not the only thing.
+It can be good or bad. If you keep in mind that BBC is available here and not in some countries like Brazil. But, it is not the only thing.
 
 Given the timezone, since the broadcasters can not show some series at the same time that USA, some series (like Game of Thrones) are broadcasted on a completely different day.
 
@@ -34,7 +34,7 @@ Given the timezone, since the broadcasters can not show some series at the same 
 
 ![Groceries Store](https://regmedia.co.uk/2013/10/04/checkout.jpg?x=1200&y=794){:.center-image}
 
-Groceries stores are a different experience as well. Here, as mentioned, they do not have people to bag your groceries. Something that, for me, was new on USA, given that it is not a thing on Brazil. 
+Groceries stores are a different experience as well. Here, as mentioned, they do not have people to bag your groceries. Something that, for me, was new in USA, given that it is not a thing in Brazil. 
 
 Other diference from the big apple is the absence of the Walmart experience. Most of the London groceries stores are small and local, having only big farmer markets.
 
@@ -64,9 +64,9 @@ And, yes! The portions are smaller than the american ones. But, the american por
 
 British people have a complete different culture when talking about food. 
 
-It is common to them to just eat a sandwich or sometimes already done on lunch. Like mentioned on the post, the sandwich, salad or others food are prepared in the morning and just served latter.
+It is common to them to just eat a sandwich or sometimes already done at lunch. Like mentioned on the post, the sandwich, salad or others food are prepared in the morning and just served latter.
 
-Most markets and food truck have some dish prepared and storaged for you to heat up (or even eat cold) and eat while seating on your workstation.
+Most markets and food truck have some dish prepared and storaged for you to heat up (or even eat cold) and eat while seating at your workstation.
 
 I was used to go to a restaurant, seat at a table, order the food that will be cooked at that moment and eat talking to friends!
 
@@ -74,9 +74,9 @@ To change my routine to grab a sandwich and eat at my workstation, in front of m
 
 The real and full meal experience (in my opinion) is enjoyed during dinner or weekend. When you can have a Yorkshire Pudding whith meat and grave (yummy)!
 
-Like she mentioned on the post she is an "American who hasn't spent much time in other countries". Because, this kind of things is something that is easily notable on other countries.
+Like she mentioned on the post she is an "American who hasn't spent much time in other countries". Because, this kind of things is something that is easily notable in other countries.
 
-McDonald's itself (the fast food chain that she mentioned) have a differente menu for each country that it is in. Even a burguer with wasabi and tartare sauce on Japan.
+McDonald's itself (the fast food chain that she mentioned) have a differente menu for each country that it is in. Even a burguer with wasabi and tartare sauce in Japan.
 
 # Drinking
 
@@ -88,43 +88,43 @@ It's a lot.
 
 That is why you can see a pub on every corner of London. And, in the end of the day of Friday, all of them will be full. It's part of the british culture to gather around on a pub. It's the pub culture.
 
-The writer was amazed by the fact that she could buy a 2 liter bottle of cider (a drink that is highly consumed on the island). But it is easy to buy any easy drink. From cider to wine.
+The writer was amazed by the fact that she could buy a 2 liter bottle of cider (a drink that is highly consumed in the island). But it is easy to buy any easy drink. From cider to wine.
 
 ![Controlled area](http://images.freeimages.com/images/premium/previews/1413/14132228-alcohol-free-zone-sign.jpg){:.center-image}
 
 Other think that may be strange to US citizens is that is allowed to drink in the streets (apart for some controlled areas, usually near schools or busy streets).
 
-USA is really stricted on it's drinks rules. You can only drink after 21 and you can't carry bottler or cups on the streets.
+USA is really stricted on it's drinks rules. You can only drink after 21 and you can't carry bottler or cups in the streets.
 
 # Housing
 
 ![Loo](http://static2.uk.businessinsider.com/image/54b7eb23dd0895d5258b4649-1200-900/bi-london-bathroom.jpg){:.center-image}
 <span class="source">Jim Edwards / Business Insider</span>
 
-House on USA and on London are two worlds apart!
+House in USA and in London are two worlds apart!
 
-It's not so common on New York, but a lot of people on USA leaves on houses made of wood (Yes! Wood). While the UK have your building in bricks or concrete.
+It's not so common in New York, but a lot of people in USA leaves in houses made of wood (Yes! Wood). While the UK have your building in bricks or concrete.
 
-A lot of houses on London are, also, old! Like, really old! Victorian times! And even in the modern houses, some engineering and architectural decision and patterns are still presents.
+A lot of houses in London are, also, old! Like, really old! Victorian times! And even in the modern houses, some engineering and architectural decision and patterns are still presents.
 
 To mention some:
 
 There is no area destinated to laundry (like most of the Brazilian houses). The washer machine and dryer share space with the kitchen! And, if you don't have a dryer, you have to hang your clothes on clothesline in your living room.
 
-What the americans call bathroom, in a lot of houses, are separated on two separated rooms: The bathroom itself (the place where the bathtub is) and the loo (the place where the toilet is).
+What the americans call bathroom, in a lot of houses, are separated in two separated rooms: The bathroom itself (the place where the bathtub is) and the loo (the place where the toilet is).
 
 The sinks have two water taps: One for hot water and another for cold water. This two water flow, a long time ago, had to be separated to keep the cold water safe to drink. And, until this day, most of the houses keep the taps separated.
 
-And, one think that is beautifully done on UK is safety measures around the eletrical network. 
+And, one think that is beautifully done in UK is safety measures around the eletrical network. 
 
-Each eletronical device plug have a dedicated fuse, beside the main line fuses. And, there is no electrical outlet on the bathrooms. In some cases, not even light switches, that is placed outside the room or replaced for a rope or a chain that comes down from the ceiling.
+Each eletronical device plug have a dedicated fuse, beside the main line fuses. And, there is no electrical outlet in the bathrooms. In some cases, not even light switches, that is placed outside the room or replaced for a rope or a chain that comes down from the ceiling.
  
 
 # Streets
 
-In London, the cars are on the wrong side of the road! Because of this, every turist should be, at least, a little afraid of being hited by a car!
+In London, the cars are in the wrong side of the road! Because of this, every turist should be, at least, a little afraid of being hited by a car!
 
-The city knows about it! That is why they printed on the street each way you should look! Every single crosswalk have the indication of which direction should you look.
+The city knows about it! That is why they printed in the street each way you should look! Every single crosswalk have the indication of which direction should you look.
 
 ![Street indications](http://static1.uk.businessinsider.com/image/54b7eb21dd0895d5258b4643-1200-924/expat-london-11.jpg){:.center-image}
 <span class="source">Business Insider / Pamela Engel</span> 
@@ -135,7 +135,7 @@ And, the traffic lights follow the most intelligent system ever: They go from gr
 
 # Underground
 
-On UK, subway is the fast food company or a tunnel where people can use to pass under a street. The train system is called underground. About them is important to know: They are old, they are complex and they are expensive (in a lot of cases is better to take a bus)!
+In UK, subway is the fast food company or a tunnel where people can use to pass under a street. The train system is called underground. About them is important to know: They are old, they are complex and they are expensive (in a lot of cases is better to take a bus)!
 
 And, as mentioned in the article, there is no "Exit" sign. Only indications of your "way out".
 
@@ -143,9 +143,9 @@ And, as mentioned in the article, there is no "Exit" sign. Only indications of y
 
 One thing that I was really not expecting was the reporter saying that London wins on affordable real state! Seriously!
 
-Housing on London is really expensive. Like, REALLY expensive. Being one of the reasons why people live outside London and commute by train every single day.
+Housing in London is really expensive. Like, REALLY expensive. Being one of the reasons why people live outside London and commute by train every single day.
 
-But, accordlying to Pamela Engel, it is easier to find a good apartment on a reasable price in the queen's land than on the big apple!
+But, accordlying to Pamela Engel, it is easier to find a good apartment on a reasable price in the queen's land than in the big apple!
 
 <div id="disqus_thread"></div>
 <script>
