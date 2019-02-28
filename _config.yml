@@ -1,0 +1,31 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+repository:          igorcferreira/igorcferreira.github.io
+title:               Igor Ferreira
+tagline:             'Um simples blog'
+description:         'Um blog escrito por <a href="https://twitter.com/icastanheda">mim</a> sobre coisas'
+url:                 https://igorcferreira.dev
+baseurl:             ''
+paginate:            3
+
+# About/contact
+author:
+  name:              Igor Ferreira
+  url:               https://twitter.com/igorcferreira
+  email:             igorcferreira@hotmail.com
+
+# Custom vars
+version:             1.0.0
+
+plugins: [jekyll-paginate, jekyll-github-metadata]
+
+github:
+  repo:           https://github.com/igorcferreira/igorcferreira.github.io
