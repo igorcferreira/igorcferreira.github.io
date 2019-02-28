@@ -8,12 +8,13 @@ highlighter:      rouge
 permalink:           pretty
 
 # Setup
+repository:          igorcferreira/igorcferreira.github.io
 title:               Igor Ferreira
 tagline:             'Um simples blog'
 description:         'Um blog escrito por <a href="https://twitter.com/icastanheda">mim</a> sobre coisas'
 url:                 https://igorcferreira.dev
 baseurl:             ''
-paginate:            5
+paginate:            3
 
 # About/contact
 author:
@@ -24,7 +25,7 @@ author:
 # Custom vars
 version:             1.0.0
 
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-github-metadata]
 
 github:
   repo:           https://github.com/igorcferreira/igorcferreira.github.io
