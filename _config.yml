@@ -12,7 +12,7 @@ repository:          igorcferreira/igorcferreira.github.io
 title:               Igor Ferreira
 tagline:             'Um simples blog'
 description:         'Um blog escrito por <a href="https://twitter.com/icastanheda">mim</a> sobre coisas'
-url:                 https://igorcferreira.dev
+url:                 https://igorcferreira.com
 baseurl:             ''
 paginate:            3
 
