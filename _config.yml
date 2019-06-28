@@ -12,7 +12,7 @@ repository:          igorcferreira/PersonalBlog
 title:               Igor Ferreira
 tagline:             'Um simples blog'
 description:         'Um blog escrito por <a href="https://twitter.com/icastanheda">mim</a> sobre coisas'
-url:                 https://igorcferreira.com
+url:                 http://igorcferreira.com
 baseurl:             ''
 paginate:            3
 
