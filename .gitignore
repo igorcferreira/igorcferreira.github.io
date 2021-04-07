@@ -2,6 +2,7 @@
 _gh_pages
 _site
 .ruby-gemset
+.jekyll-cache
 
 # Numerous always-ignore extensions
 *.diff
